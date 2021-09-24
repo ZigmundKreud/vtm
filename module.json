@@ -2,9 +2,9 @@
   "name": "wod-vtm",
   "title": "Vampire The Masquerade",
   "description": "Vampire The Masquerade module for WOD System",
-  "version": "0.1",
-  "minimumCoreVersion": "0.7.3",
-  "compatibleCoreVersion": "0.7.9",
+  "version": "0.8.9.1",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.9",
   "systems": [
     "wod"
   ],
