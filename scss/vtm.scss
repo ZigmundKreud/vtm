@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Delavan";
+  src: url('../fonts/delavan.ttf');
+}
+$font-vampire: "Delavan", Serif;
+$font-ghoul: "Delavan", Serif;
+$font-hunter: "Delavan", Serif;
+
+
+.wod {
+  &.actor {
+    .window-content {
+      .vampire {
+        @import 'scss/components/sheet/actor/vampire';
+      }
+
+      .hunter {
+        @import 'scss/components/sheet/actor/hunter';
+      }
+
+      .ghoul {
+        @import 'scss/components/sheet/actor/ghoul';
+      }
+    }
+  }
+}

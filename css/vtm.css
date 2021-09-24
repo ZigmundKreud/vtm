@@ -1,0 +1,132 @@
+@font-face {
+  font-family: "Delavan";
+  src: url("../fonts/delavan.ttf");
+}
+
+.wod.actor .window-content .vampire .wrap .sheet-header .header-fields .logo {
+  background-image: url("../ui/vampire/logo-v20.png");
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: top;
+  background-size: auto 130px;
+  min-height: 130px;
+  height: 130px;
+  max-height: 130px;
+  margin-top: -10px;
+}
+
+.wod.actor .window-content .vampire .wrap .sheet-header .header-fields .details .field-label {
+  font-family: "Delavan", Serif;
+  font-size: 14px;
+}
+
+.wod.actor .window-content .vampire .wrap .sheet-header .header-fields .sheet-tabs {
+  font-family: "Delavan", Serif;
+  font-size: 18px;
+}
+
+.wod.actor .window-content .vampire .wrap .sheet-body .section-header {
+  background-image: url("../ui/vampire/separator.png");
+  background-repeat: no-repeat;
+  background-size: 100% 37px;
+  background-position-y: center;
+}
+
+.wod.actor .window-content .vampire .wrap .sheet-body .section-header .section-title {
+  background-color: white;
+  font-family: "Delavan", Serif;
+  font-size: 24px;
+  padding: 0 10px;
+  margin: 0 10px 0 10px;
+}
+
+.wod.actor .window-content .vampire .wrap .sheet-body .main .section-content .section-title {
+  font-family: "Delavan", Serif;
+  font-size: 18px;
+}
+
+.wod.actor .window-content .hunter .wrap .sheet-header .header-fields .logo {
+  background-image: url("../ui/hunter/logo.png");
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: top;
+  background-size: auto 130px;
+  min-height: 130px;
+  height: 130px;
+  max-height: 130px;
+  margin-top: -10px;
+}
+
+.wod.actor .window-content .hunter .wrap .sheet-header .header-fields .details .field-label {
+  font-family: "Delavan", Serif;
+  font-size: 14px;
+}
+
+.wod.actor .window-content .hunter .wrap .sheet-header .header-fields .sheet-tabs {
+  font-family: "Delavan", Serif;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.wod.actor .window-content .hunter .wrap .sheet-body .section-header {
+  background-image: url("../ui/vampire/separator.png");
+  background-repeat: no-repeat;
+  background-size: 100% 37px;
+  background-position-y: center;
+}
+
+.wod.actor .window-content .hunter .wrap .sheet-body .section-header .section-title {
+  background-color: white;
+  font-family: "Delavan", Serif;
+  font-size: 24px;
+  padding: 0 10px;
+  margin: 0 10px 0 10px;
+}
+
+.wod.actor .window-content .hunter .wrap .sheet-body .main .section-content .section-title {
+  font-family: "Delavan", Serif;
+  font-size: 18px;
+}
+
+.wod.actor .window-content .ghoul .wrap .sheet-header .header-fields .logo {
+  background-image: url("../ui/ghoul/logo.png");
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: top;
+  background-size: auto 130px;
+  min-height: 130px;
+  height: 130px;
+  max-height: 130px;
+  margin-top: -10px;
+}
+
+.wod.actor .window-content .ghoul .wrap .sheet-header .header-fields .details .field-label {
+  font-family: "Delavan", Serif;
+  font-size: 14px;
+}
+
+.wod.actor .window-content .ghoul .wrap .sheet-header .header-fields .sheet-tabs {
+  font-family: "Delavan", Serif;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.wod.actor .window-content .ghoul .wrap .sheet-body .section-header {
+  background-image: url("../ui/ghoul/separator.png");
+  background-repeat: no-repeat;
+  background-size: 100% 37px;
+  background-position-y: center;
+}
+
+.wod.actor .window-content .ghoul .wrap .sheet-body .section-header .section-title {
+  background-color: white;
+  font-family: "Delavan", Serif;
+  font-size: 24px;
+  padding: 0 10px;
+  margin: 0 10px 0 10px;
+}
+
+.wod.actor .window-content .ghoul .wrap .sheet-body .main .section-content .section-title {
+  font-family: "Delavan", Serif;
+  font-size: 18px;
+}
